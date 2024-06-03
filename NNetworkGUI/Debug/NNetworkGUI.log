@@ -1,0 +1,30 @@
+﻿  MyForm.cpp
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(57,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(69,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(70,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(72,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(100,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(106,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(114,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(121,63): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(130,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(133,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(139,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(141,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(150,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(151,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(157,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(158,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(160,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(170,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\MyForm.h(460,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\MyForm.h(588,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\MyForm.h(610,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\MyForm.h(617,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\MyForm.h(621,23): warning C4018: '<': signed/unsigned mismatch
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  NNetworkGUI.vcxproj -> C:\Users\qUiet\source\repos\NNetworkGUI\Debug\NNetworkGUI.exe

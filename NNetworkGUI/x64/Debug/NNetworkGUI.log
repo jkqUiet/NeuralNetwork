@@ -1,0 +1,19 @@
+﻿  MyForm.cpp
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(57,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(106,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(121,63): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(138,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(149,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\NNetwork.h(170,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\MyForm.h(546,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\MyForm.h(560,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\MyForm.h(622,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Reader.cpp
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\Reader.cpp(35,12): warning C4101: 'endpos': unreferenced local variable
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  NNetworkGUI.vcxproj -> C:\Users\qUiet\source\repos\NNetworkGUI\x64\Debug\NNetworkGUI.exe

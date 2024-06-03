@@ -1,0 +1,3 @@
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\x64\Release\NNetworkGUI.MyForm.resources
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\x64\Release\NNetworkGUI.vcxproj.GenerateResource.cache
+C:\Users\qUiet\source\repos\NNetworkGUI\NNetworkGUI\x64\Release\NNetworkGUI.vcxprojAssemblyReference.cache
