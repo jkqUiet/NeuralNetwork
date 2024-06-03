@@ -1,0 +1,28 @@
+﻿  NNetwork.cpp
+C:\Users\qUiet\source\repos\NNetwork\NNetwork\Net.h(42,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetwork\NNetwork\Net.h(43,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetwork\NNetwork\Net.h(51,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\qUiet\source\repos\NNetwork\NNetwork\Net.h(63,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetwork\NNetwork\Net.h(64,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetwork\NNetwork\Net.h(66,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetwork\NNetwork\Net.h(84,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetwork\NNetwork\Net.h(90,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\qUiet\source\repos\NNetwork\NNetwork\Net.h(98,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetwork\NNetwork\Net.h(105,63): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\qUiet\source\repos\NNetwork\NNetwork\Net.h(114,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetwork\NNetwork\Net.h(117,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetwork\NNetwork\Net.h(122,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetwork\NNetwork\Net.h(124,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetwork\NNetwork\Net.h(132,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetwork\NNetwork\Net.h(133,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetwork\NNetwork\Net.h(141,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetwork\NNetwork\Net.h(142,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetwork\NNetwork\Net.h(144,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetwork\NNetwork\NNetwork.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\qUiet\source\repos\NNetwork\NNetwork\NNetwork.cpp(33,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qUiet\source\repos\NNetwork\NNetwork\NNetwork.cpp(37,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  NNetwork.vcxproj -> C:\Users\qUiet\source\repos\NNetwork\Debug\NNetwork.exe
